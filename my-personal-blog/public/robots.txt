@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://你的域名/sitemap.xml 
+Sitemap: https://www.eurus.blog/sitemap.xml 

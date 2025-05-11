@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 import { getAllPosts } from '@/lib/posts'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://你的域名'
+  const baseUrl = 'https://www.eurus.blog'
   
   // 获取所有博客文章
   const posts = getAllPosts()
